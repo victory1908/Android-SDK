@@ -23,10 +23,10 @@
     <bool name="bugTrackingEnabled">true</bool>
 
     <!-- Beaconstac API token -->
-    <string name="api_key"></string>
+    <string name="api_key">e8269ab9c0e7e79cd7b491d89fc55dad5cb921cf</string>
 
     <!-- Organization id -->
-    <integer name="organization_id">0</integer>
+    <integer name="organization_id">898</integer>
 
     <!-- Provider authority -->
     <string name="provider">com.mobstac.beaconstacexample.provider</string>
